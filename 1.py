@@ -1,6 +1,6 @@
 # print ('hai')
 ## untuk commit pake git rm --cached 1.py
-##git commit -m "file.py"
+##\GIT>git commit -m "file.py"
 class X :
     def __init__ (self) :
         self.nama = 'Andi'
